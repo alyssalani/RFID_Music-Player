@@ -12,3 +12,6 @@ Raspberry Pi 3
 Making the RPi a spotify device in order to use the API:
 Paste this command into rpi terminal: curl -sL https://dtcooper.github.io/raspotify/install.sh | sh
 Install spotipy: sudo pip install spotipy
+
+-ps I know it's raspberry pi, my commit line autocorrected when doing the images
+
